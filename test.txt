@@ -1,2 +1,2 @@
-This is the master branch.
-This is for testing purpose.
+This is the having branch.
+This is for not having purpose.
